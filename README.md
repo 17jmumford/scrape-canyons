@@ -1,3 +1,5 @@
 # scrape-canyons
-Scrapes Canyoneering Websites for data
-To use, open in Colab and run the boxes. This is a work in progress.
+Scrapes bluugnome.com for data. See Jupyter Notebook for instructions.
+
+Future plans:
+scrape other websites
